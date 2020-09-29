@@ -1,9 +1,9 @@
-APP_PATH = {
-'notepad_++':r'C:\Program Files\Notepad++\notepad++.exe',
-'datagrip':r'C:\Users\jreid\AppData\Local\JetBrains\Toolbox\apps\datagrip\ch-2\191.8026.4\bin\datagrip64.exe'
+APP_PATHS = {
+'notepad':r'C:\Program Files (x86)\Notepad++\notepad++.exe',
+'datagrip':r''
 }
 
-FORMAT = {
+JIRA_FORMAT = {
 'txt_format':
     """"Testing Environment:
 
